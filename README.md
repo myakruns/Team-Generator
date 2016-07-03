@@ -10,6 +10,6 @@ The initial version of this application will have the following features:
 5. generated lists will not be saved
 
 Round 1 will be only a Swift Playground.
-Round 2 will be an iOS app
-Round 3 will be an Android app (?)
-Round 4 will add "Team" functions and ability to save lists
+Round 2 will be an iOS app.
+Round 3 will be an Android app (?).
+Round 4 will add "Team" functions and ability to save lists.
